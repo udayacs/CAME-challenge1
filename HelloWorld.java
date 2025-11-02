@@ -1,5 +1,6 @@
-import System;
-
-void main() {
-    System.out.println("Hello World!");
+public class Helloworld {
+    void main() {
+        System.out.println("Hello World!");
+    }
 }
+
