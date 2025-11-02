@@ -6,9 +6,10 @@ Instruction
 1. Install Git and JDK.
 2. Clone the repository using Git.
 3. Run the programme by 
-    java Sort n1 n2 n3 n4
+    
+    `java Sort n1 n2 n3 n4`
 
 
-![Running the programme](/RunExample.png)
+![Running the programme](/s2/RunExample.png)
 
 
