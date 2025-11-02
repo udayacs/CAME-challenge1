@@ -16,7 +16,7 @@ public class Sort{
         System.out.print("]\n");
 
         int[] sorted = sortInt(intArray); 
-        System.out.print("Output: [ ");
+        System.out.print("Sorted Output: [ ");
         for (int i : sorted) {
             System.out.print(i + " ");
         }
